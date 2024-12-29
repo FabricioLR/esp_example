@@ -1,5 +1,0 @@
-source "/home/fabricio/esp/components/bootloader/Kconfig.projbuild"
-source "/home/fabricio/esp/components/esp_app_format/Kconfig.projbuild"
-source "/home/fabricio/esp/components/esp_rom/Kconfig.projbuild"
-source "/home/fabricio/esp/components/esptool_py/Kconfig.projbuild"
-source "/home/fabricio/esp/components/partition_table/Kconfig.projbuild"
