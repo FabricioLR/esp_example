@@ -1,0 +1,2 @@
+source /home/fabricio/esp/examples/test/build/bootloader/gdbinit/symbols
+source /home/fabricio/esp/examples/test/build/bootloader/gdbinit/connect
